@@ -1,4 +1,4 @@
-# Excel Homework: Kickstart My Chart
+# Kickstarter Campaign Data Analysis
 
 ## Background
 
