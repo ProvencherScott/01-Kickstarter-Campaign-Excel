@@ -1,13 +1,30 @@
 # Kickstarter Campaign Data Analysis
 
-## Background
+
+After modifying the data provided from Kickstarter, I was able to build a workbook with several graphs on Excel and perform my own analysis. I modified and organized the data using conditional foratting, pivot tables and various formulas. There is a total of pivot tables on 'Kickstarter Campaign Data Analysis' There are two files in the folder 'Kickstarter Analysis' which answers these questions:
+
+1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
+2. What are some limitations of this dataset?
+3. What are some other possible tables and/or graphs that we could create?
+
+
+## Bonus Statistical Analysis
+
+Use your data to determine whether the mean or the median summarizes the data more meaningfully.
+
+* Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
+
+
+
+
+
 
 Over $2 billion has been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. Of the more than 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
 
 Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. For this week's homework, you will organize and analyze a database of 4,000 past projects in order to uncover any hidden trends.
 
 
-## Instructions
+
 
 Using the Excel table provided, modify and analyze the data of 4,000 past Kickstarter projects as you attempt to uncover some market trends.
 
@@ -43,6 +60,8 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
   * Now create a pivot chart line graph that visualizes this new table.
 
 * Create a report in Microsoft Word and answer the following questions.
+
+## Questions
 
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 2. What are some limitations of this dataset?
